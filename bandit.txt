@@ -6,8 +6,6 @@ ssh -p 2220 bandit0@bandit.labs.overthewire.org
 #cat
 muestra los contenidos de un archivo
 
-si un archivo tiene caracteres especiales como - o . usar cat./NameOfTheFile
-
 # file
 Te dice el tipo de informacion que tiene un archivo: ASCII, data
 
